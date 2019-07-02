@@ -1,0 +1,17 @@
+{
+  "name": "ultimate_reverser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverser.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon reverser"
+  },
+  "author": "eat_code_travel_repeat",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nodemon": "^1.19.1"
+  }
+}
